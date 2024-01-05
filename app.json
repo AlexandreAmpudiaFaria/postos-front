@@ -1,15 +1,15 @@
 {
   "expo": {
-    "name": "posto-avenida-front",
+    "name": "Posto Avenida",
     "slug": "posto-avenida-front",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
     "userInterfaceStyle": "light",
     "splash": {
-      "image": "./assets/splash.png",
+      "image": "./assets/cropeed.jpg",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#dbdbdb"
     },
     "assetBundlePatterns": [
       "**/*"
